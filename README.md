@@ -2,9 +2,17 @@
 ![eamesBot/Shutterstock.com](Resources/Images/crypto.jpeg)
 ## Scenario
 
+<<<<<<< HEAD
 * I are on the Advisory Services Team of a financial consultancy. One of my clients, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. They’ve asked me to create a report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.
 
 * I have been handed raw data, so you will first need to process it to fit the machine learning models. Since there is no known classification system, I will need to use unsupervised learning. I will use several clustering algorithms to explore whether the cryptocurrencies can be grouped together with other similar cryptocurrencies. I will use data visualization to share my findings with the investment bank.
+=======
+* I am on the Advisory Services Team of a financial consultancy. One of my client's, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. They’ve asked you to create a report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.
+
+* I have been handed raw data, so I will first need to process it to fit the machine learning models. Since there is no known classification system, I will need to use unsupervised learning. I will use several clustering algorithms to explore whether the cryptocurrencies can be grouped together with other similar cryptocurrencies. I will use data visualization to share your findings with the investment bank.
+
+## Instructions
+>>>>>>> 66800bb08cf7de80336cb5ecc68dbb8ea79bd41d
 
 ### Data Preparation
 
@@ -34,4 +42,8 @@
 
 ### Recommendation
 
+<<<<<<< HEAD
 * Based on my findings, cryptocurrencies can be cluster into 4 distinct groups as proven with the dataset provided.
+=======
+* Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters? ng
+>>>>>>> 66800bb08cf7de80336cb5ecc68dbb8ea79bd41d
